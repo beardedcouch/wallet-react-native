@@ -1,8 +1,8 @@
-node_modules/**/*
-.expo/*
+node_modules
+.expo
 npm-debug.*
 package-lock.json
 yarn.lock
-.DS_Store
-.idea/*
-.vscode/*
+*.DS_Store
+.idea
+.vscode
